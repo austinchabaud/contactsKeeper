@@ -8,7 +8,7 @@ const About = () => {
 				This is a full stack react app for storing contacts
 			</p>
 			<p className='bg-dark p'>
-				<strong>Version</strong> 1.0.0
+				<strong>Version</strong> 1.0.1
 			</p>
 		</div>
 	);
